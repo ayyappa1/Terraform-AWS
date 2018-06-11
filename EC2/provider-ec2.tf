@@ -1,8 +1,8 @@
 # Terraform code to create ec2 instance
 
 provider "aws"{
-  access_key = "AKIAJGCYZWZB47MSTXIA"
-  secret_key = "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"
+  access_key = "*********************"
+  secret_key = "*********************"
   region = "ap-south-1"
 }
 
